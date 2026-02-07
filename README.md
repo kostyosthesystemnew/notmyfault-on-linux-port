@@ -1,7 +1,6 @@
 <p align="center">
-  ![Project Size](https://img.shields.io/github/languages/code-size/kostyosthesystemnew/notmyfault-on-linux-port?color=blue&label=Size)
+  <img src="https://img.shields.io/github/languages/code-size/kostyosthesystemnew/notmyfault-on-linux-port?color=blue&label=Size" alt="Project Size">
 </p>
-
 # notmyfault-on-linux-port
 this on developing bro
 # are you can steal that?
