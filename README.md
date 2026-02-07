@@ -1,4 +1,7 @@
-![Project Size](https://img.shields.io/github/languages/code-size/kostyosthesystemnew/notmyfault-on-linux-port?color=blue&label=Size)
+<p align="center">
+  ![Project Size](https://img.shields.io/github/languages/code-size/kostyosthesystemnew/notmyfault-on-linux-port?color=blue&label=Size)
+</p>
+
 # notmyfault-on-linux-port
 this on developing bro
 # are you can steal that?
