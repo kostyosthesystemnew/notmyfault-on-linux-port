@@ -10,6 +10,6 @@ yes im not care about this if you steal im don't care its wtfpl program
 
 # Language and ui that will builded :
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt">
+  <img src="https://img.shields.io/badge/logo-c++-blue?logo=c%2B%2B&logoColor=f5f5f5" alt="C++">
+    <img src="https://img.shields.io/badge/logo-c++-blue?logo=c%2B%2B&logoColor=f5f5f5" alt="C++">
 </p>
