@@ -6,7 +6,7 @@
 this on developing bro
 
 # are you can steal that?
-yes im not care about this if you steal im don't care its wtfpl program
+yes im not care about this if you steal im don't care its MIT program
 
 # Language and ui that will builded :
 <p align="center">
