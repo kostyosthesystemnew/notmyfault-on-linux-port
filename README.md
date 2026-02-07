@@ -29,3 +29,7 @@ Private use but not
     <img src="https://repology.org/badge/vertical-allrepos/qt.svg" alt="Packaging status">
   </a>
 </p>
+
+# WHY IM DON'T CARE BUT CARE ONLY WHEN YOU BROKE THE RULES OF LICENSE
+all because <img width="640" height="360" alt="изображение" src="https://github.com/user-attachments/assets/8503a667-883c-4c19-8fcf-170bcee4d2bb" />
+
